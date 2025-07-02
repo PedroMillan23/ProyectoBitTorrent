@@ -42,5 +42,4 @@ Graba los siguientes puntos:
 - Python 3.10+
 - Ejecutable en red local o servicios en la nube (AWS, GCP, etc.)
 
----
-Desarrollado para la Unidad de Aprendizaje: **Sistemas Distribuidos - Proyecto Final (Ago-Dic 2024)**
+
