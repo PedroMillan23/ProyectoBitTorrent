@@ -1,0 +1,34 @@
+{
+  "A": {
+    "ip": "127.0.0.1",
+    "port": 6001,
+    "files": [
+      "DarthVader-RogueOne.mp4",
+      "Invecible_T3_Ep8.mp4",
+      "wallpaper.jpg"
+    ],
+    "status": "activo",
+    "last_seen": "2025-06-29 18:11:03"
+  },
+  "B": {
+    "ip": "127.0.0.1",
+    "port": 6002,
+    "files": [
+      "wallpaper.jpg",
+      "DarthVader-RogueOne.mp4",
+      "Invecible_T3_Ep8.mp4",
+      "SW.jpg"
+    ],
+    "status": "activo",
+    "last_seen": "2025-06-29 18:10:53"
+  },
+  "C": {
+    "ip": "127.0.0.1",
+    "port": 6003,
+    "files": [
+      "SW.jpg"
+    ],
+    "status": "activo",
+    "last_seen": "2025-06-29 18:11:03"
+  }
+}
